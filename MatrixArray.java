@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Matrix_array {
+public class MatrixArray {
 	public static void main(String[] args) {
 		int m, n, i, j;
 		Scanner sc = new Scanner(System.in);
