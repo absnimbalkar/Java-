@@ -1,4 +1,4 @@
-public class ass2SetA3 {
+public class sorting {
    public static void main(String[] args) {
       int a[] = new int[20];
       int j, temp, i;
